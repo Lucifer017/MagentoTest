@@ -1,0 +1,1 @@
+/home/irfan/Projects/magentotest/lib/web/jquery/fileUploader/load-image.js

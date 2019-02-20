@@ -1,0 +1,1 @@
+/home/irfan/Projects/magentotest/vendor/msp/recaptcha/view/frontend/web/js/registry.js
